@@ -1,0 +1,1 @@
+PODS_LOCKREACTNATIVE_LOCK_OTHER_LDFLAGS = -framework "Accounts" -framework "Social" -framework "Twitter"
